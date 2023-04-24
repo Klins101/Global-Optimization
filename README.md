@@ -530,6 +530,3 @@ hold off;
 ```
 
 ![figure_11.png](README_images/figure_11.png)
-
-***
-*Generated from project_b3.mlx with [Live Script to Markdown Converter](https://github.com/roslovets/Live-Script-to-Markdown-Converter)*
